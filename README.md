@@ -1,5 +1,5 @@
-# SUBDOMAIN-CF
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=SUB-CLOUDFLARE)](https://git.io/typing-svg)
+# SUBDOMAIN-FINDER
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=SUBDOMAIN-FINDER)](https://git.io/typing-svg)
 ## DOWNLOAD TERMUX FDROID
 * Unduh & Install Termux [`Klik Disini`](https://f-droid.org/repo/com.termux_118.apk)
 # DEMO
@@ -7,11 +7,7 @@
 
 ### Instalation on Termux & Running
 ```makefile
-pkg update && pkg upgrade && pkg install python && pkg install git && git clone https://github.com/Wildev26/Sub-cf.git && cd Sub-cf
-```
-## install module requirements.txt
-```makefile
-pip install -r requirements.txt
+pkg update -y && pkg upgrade -y && pkg install git python-pip && git clone https://github.com/WilDev26/Subdomain-dns.git && cd Subdomain-dns && pip install -r requirements.txt
 ```
 ## UNTUK MENJALAKAN COPY PERINTAH
 ```makefile
