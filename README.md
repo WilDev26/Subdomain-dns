@@ -3,7 +3,7 @@
 ## DOWNLOAD TERMUX FDROID
 * Unduh & Install Termux [`Klik Disini`](https://f-droid.org/repo/com.termux_118.apk)
 # DEMO
-<img src ="https://github.com/WilDev26/Sub-cf/blob/db95c4aad2a0ef05f1ad421802b6ae604db41f48/Demo/screen-20250311-084224_1.gif"/>
+<img src ="https://raw.githubusercontent.com/WilDev26/Subdomain-dns/refs/heads/main/demo/1741979005024_1.gif"/>
 
 ### Instalation on Termux & Running
 ```makefile
